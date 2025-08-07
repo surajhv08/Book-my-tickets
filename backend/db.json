@@ -1,0 +1,163 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "KGF Chapter 1",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://m.media-amazon.com/images/M/MV5BNDVlYWYzNDUtZTM3Ny00OTI5LThiZDQtNTA0YjFhMTE1YTdjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "KGF Chapter 2",
+      "genre": "Action",
+      "seats": 65,
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/dbe30e1e25813a698e0da679a5968c380bd2d1b4e6966394d4c964c6b3301896.jpg"
+    },
+    {
+      "id": "3",
+      "title": "18th Cross ",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.My4pov6HGVHyR_6aqQUEFQHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4",
+      "title": "27 Mavalli Circle",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.VPgzoYkRaMxKF-QBNmClcgHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "5",
+      "title": "1st Rank Raju ",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.pjl49jTUs4KqBa7HfXTIlQHaFn?pid=Api&P=0&h=180"
+    }
+  ],
+  "sports": [
+    {
+      "id": "1",
+      "title": "Cricket",
+      "team": "RCB vs CSK",
+      "seats": 34000,
+      "img": "https://www.financialexpress.com/wp-content/uploads/2025/03/FotoJet-2025-03-28T111058.597.jpg",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "2",
+      "title": "Football",
+      "team": "BFC vs GFC",
+      "seats": 15000,
+      "img": "https://www.indiansuperleague.com/static-assets/waf-images/e9/d2/80/4-3/kprHm8FCQ1.png?v=100.71&w=1024",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "3",
+      "title": "Cricket",
+      "team": "RCB vs PBKS",
+      "seats": 35000,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.71lu4_5u9ktw5zU7BOGNlgHaED?pid=Api&P=0&h=180",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "4",
+      "title": "Football",
+      "team": "BFC vs KFBC",
+      "seats": 15000,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.9Gbk3fgizmpfbW69AwTUxAHaEK?pid=Api&P=0&h=180",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "5",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "6",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "7",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "8",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "9",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "10",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://img.jagranjosh.com/images/2025/March/2232025/kkr-vs-rcb-headtohead.webp",
+      "stadium": " M Chinnaswamy stadium"
+    }
+  ],
+  "booking": [
+    {
+      "id": "e660",
+      "name": "SURAJ H.V",
+      "email": "surajvenkatesh832@gmail.com",
+      "phone": "8792129839",
+      "seats": 5,
+      "refID": "2",
+      "title": "KGF Chapter 2",
+      "type": "movies"
+    }
+  ],
+  "createaccount": [
+    {
+      "id": "8708",
+      "username": "Milind",
+      "email": "milind20001964@gmail.com",
+      "phone": "9110483491",
+      "password": "123456"
+    },
+    {
+      "id": "dccd",
+      "username": "Ankush",
+      "email": "a@gmail.com",
+      "phone": "9110483491",
+      "password": "123456"
+    },
+    {
+      "id": "2cc1",
+      "username": "suraj",
+      "email": "surajvenkatesh832@gmail.com",
+      "phone": "8792129839",
+      "password": "123456"
+    },
+    {
+      "id": "e3fa",
+      "username": "ankitha",
+      "email": "a@gmail.com",
+      "phone": "8792129839",
+      "password": "123456"
+    }
+  ]
+}
